@@ -1,0 +1,101 @@
+Product,Region,Sales,Profit,Discount,Category,Date
+Tablet,North,4348.2,689.64,0,Office Supplies,2025-01-17
+Tablet,West,4429.32,887.34,0,Accessories,2025-01-17
+Mouse,North,2143.16,271.18,10,Electronics,2025-01-17
+Smartphone,West,1098.88,825.07,25,Office Supplies,2025-01-17
+Smartphone,South,3012.86,993.96,25,Electronics,2025-01-17
+Headphones,East,1234.02,468.28,20,Office Supplies,2025-01-17
+Keyboard,South,4632.52,252.62,5,Office Supplies,2025-01-17
+Laptop,West,3234.86,45.96,15,Electronics,2025-01-17
+Tablet,South,468.41,811.94,20,Office Supplies,2025-01-17
+Printer,North,2641.78,185.65,15,Electronics,2025-01-17
+Mouse,West,2397.02,676.93,15,Electronics,2025-01-17
+Headphones,West,4940.5,830.51,10,Accessories,2025-01-17
+Mouse,West,1232.45,51.97,20,Accessories,2025-01-17
+Monitor,South,2742.09,772.18,25,Electronics,2025-01-17
+Keyboard,West,1891.96,675.16,5,Office Supplies,2025-01-17
+Keyboard,West,428.28,706.28,5,Office Supplies,2025-01-17
+Printer,South,4025.31,253.8,0,Office Supplies,2025-01-17
+Printer,West,4886.06,514.7,10,Electronics,2025-01-17
+Keyboard,South,3027.4,987.06,5,Electronics,2025-01-17
+Printer,South,569.05,230.91,20,Electronics,2025-01-17
+Headphones,North,355.92,945.84,30,Accessories,2025-01-17
+Printer,South,1004.27,571.96,30,Accessories,2025-01-17
+Headphones,West,4034.6,167.13,10,Accessories,2025-01-17
+Laptop,West,3701.89,531.9,20,Accessories,2025-01-17
+Printer,West,3047.42,267.01,25,Accessories,2025-01-17
+Tablet,North,924.81,661.2,5,Office Supplies,2025-01-17
+Smartphone,West,4761.8,416.56,20,Electronics,2025-01-17
+Monitor,North,3279.51,479.34,0,Office Supplies,2025-01-17
+Mouse,North,1067.29,504.42,25,Electronics,2025-01-17
+Printer,West,2939.1,812.54,0,Electronics,2025-01-17
+Tablet,South,689.48,783.38,20,Accessories,2025-01-17
+Printer,North,2869.19,485.27,15,Electronics,2025-01-17
+Laptop,North,2429.87,757.82,25,Accessories,2025-01-17
+Mouse,East,863.18,41.46,25,Office Supplies,2025-01-17
+Tablet,East,3813.3,479.19,15,Office Supplies,2025-01-17
+Keyboard,East,267.5,844.31,10,Accessories,2025-01-17
+Smartphone,North,1698.37,532.45,5,Accessories,2025-01-17
+Headphones,North,698.16,98.49,25,Electronics,2025-01-17
+Mouse,North,1519.54,374.95,5,Accessories,2025-01-17
+Laptop,East,1643.55,560.21,10,Office Supplies,2025-01-17
+Monitor,East,833.97,343.9,15,Accessories,2025-01-17
+Headphones,North,1255.87,392.09,30,Electronics,2025-01-17
+Printer,South,2737.14,844.54,30,Electronics,2025-01-17
+Mouse,East,1700.55,751.69,0,Accessories,2025-01-17
+Smartphone,South,2819.44,876.26,10,Office Supplies,2025-01-17
+Mouse,West,1863.49,435.5,5,Office Supplies,2025-01-17
+Laptop,North,2009.43,818.58,20,Accessories,2025-01-17
+Laptop,South,1365.97,246.39,20,Electronics,2025-01-17
+Monitor,North,200.2,816.25,25,Office Supplies,2025-01-17
+Mouse,East,1039.96,101.56,25,Office Supplies,2025-01-17
+Laptop,East,4244.41,702.55,25,Electronics,2025-01-17
+Headphones,South,3930.9,89.57,10,Electronics,2025-01-17
+Printer,South,4597.57,196.8,25,Accessories,2025-01-17
+Smartphone,South,3465.92,783.8,25,Accessories,2025-01-17
+Tablet,North,1746.35,440.87,15,Electronics,2025-01-17
+Smartphone,North,432.56,172.15,15,Office Supplies,2025-01-17
+Tablet,East,3987.42,624.2,20,Electronics,2025-01-17
+Keyboard,West,2335.78,292.42,25,Accessories,2025-01-17
+Printer,West,3920.61,928.09,25,Electronics,2025-01-17
+Laptop,North,3238.09,870.52,30,Office Supplies,2025-01-17
+Keyboard,North,216.6,67.76,30,Electronics,2025-01-17
+Monitor,South,491.47,141.21,20,Electronics,2025-01-17
+Printer,South,1458.21,772.61,10,Electronics,2025-01-17
+Tablet,East,4645.95,353.94,25,Electronics,2025-01-17
+Smartphone,North,3491.92,941.66,30,Office Supplies,2025-01-17
+Keyboard,East,3324.35,49.82,10,Electronics,2025-01-17
+Monitor,South,2068.45,572.74,10,Office Supplies,2025-01-17
+Printer,East,3227.08,633.89,0,Office Supplies,2025-01-17
+Headphones,North,3804.27,339.44,5,Office Supplies,2025-01-17
+Tablet,East,3885.62,934.85,20,Electronics,2025-01-17
+Laptop,East,4183.6,995.68,30,Electronics,2025-01-17
+Printer,West,3331.77,922.0,25,Office Supplies,2025-01-17
+Tablet,East,886.16,590.04,20,Accessories,2025-01-17
+Headphones,West,2104.37,910.91,25,Office Supplies,2025-01-17
+Tablet,South,4210.67,105.96,10,Electronics,2025-01-17
+Monitor,East,2493.66,316.83,20,Office Supplies,2025-01-17
+Monitor,North,4231.06,109.98,20,Accessories,2025-01-17
+Keyboard,South,913.16,655.76,30,Accessories,2025-01-17
+Laptop,East,1596.73,374.4,15,Accessories,2025-01-17
+Tablet,North,404.88,631.76,25,Accessories,2025-01-17
+Monitor,West,3540.23,225.12,10,Electronics,2025-01-17
+Laptop,South,2154.27,905.77,30,Accessories,2025-01-17
+Headphones,South,4448.7,992.54,0,Office Supplies,2025-01-17
+Tablet,North,2066.17,327.78,30,Office Supplies,2025-01-17
+Monitor,East,1693.78,575.7,0,Electronics,2025-01-17
+Smartphone,North,2778.39,703.31,5,Office Supplies,2025-01-17
+Printer,East,3530.3,292.15,25,Accessories,2025-01-17
+Laptop,South,1210.06,712.88,15,Accessories,2025-01-17
+Smartphone,East,3871.24,530.01,25,Office Supplies,2025-01-17
+Headphones,West,1453.16,33.09,20,Electronics,2025-01-17
+Laptop,West,1207.94,102.27,10,Accessories,2025-01-17
+Tablet,East,2627.36,236.31,30,Electronics,2025-01-17
+Tablet,South,1035.69,753.61,10,Accessories,2025-01-17
+Keyboard,East,4578.61,664.44,5,Office Supplies,2025-01-17
+Monitor,North,2241.6,396.89,30,Accessories,2025-01-17
+Tablet,West,2278.27,253.87,10,Office Supplies,2025-01-17
+Mouse,West,3238.93,847.53,15,Electronics,2025-01-17
+Keyboard,South,3375.31,780.7,15,Office Supplies,2025-01-17
+Smartphone,South,417.64,908.56,5,Office Supplies,2025-01-17
+Smartphone,North,817.08,37.88,15,Electronics,2025-01-17
